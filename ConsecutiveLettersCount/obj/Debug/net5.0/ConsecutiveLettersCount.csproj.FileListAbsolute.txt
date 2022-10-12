@@ -1,0 +1,16 @@
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/bin/Debug/net5.0/ConsecutiveLettersCount
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/bin/Debug/net5.0/ConsecutiveLettersCount.deps.json
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/bin/Debug/net5.0/ConsecutiveLettersCount.runtimeconfig.json
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/bin/Debug/net5.0/ConsecutiveLettersCount.runtimeconfig.dev.json
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/bin/Debug/net5.0/ConsecutiveLettersCount.dll
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/bin/Debug/net5.0/ConsecutiveLettersCount.pdb
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/obj/Debug/net5.0/ConsecutiveLettersCount.csproj.AssemblyReference.cache
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/obj/Debug/net5.0/ConsecutiveLettersCount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/obj/Debug/net5.0/ConsecutiveLettersCount.AssemblyInfoInputs.cache
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/obj/Debug/net5.0/ConsecutiveLettersCount.AssemblyInfo.cs
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/obj/Debug/net5.0/ConsecutiveLettersCount.csproj.CoreCompileInputs.cache
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/obj/Debug/net5.0/ConsecutiveLettersCount.dll
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/obj/Debug/net5.0/refint/ConsecutiveLettersCount.dll
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/obj/Debug/net5.0/ConsecutiveLettersCount.pdb
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/obj/Debug/net5.0/ConsecutiveLettersCount.genruntimeconfig.cache
+/Users/shahbazansari/Projects/ConsecutiveLettersCount/ConsecutiveLettersCount/obj/Debug/net5.0/ref/ConsecutiveLettersCount.dll
